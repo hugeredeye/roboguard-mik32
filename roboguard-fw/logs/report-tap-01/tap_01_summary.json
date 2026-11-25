@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tap_01_00014_fast_ram",
+    "kind": "fast_ram",
+    "records": 64,
+    "event_seq": null,
+    "event_type": null,
+    "nominal_period_ms": 2,
+    "trigger_seq": 35234,
+    "trigger_is_approximate": false,
+    "peak_acceleration_g": 1.394,
+    "peak_angular_rate_dps": 37.406
+  },
+  {
+    "file": "tap_01_00106_history",
+    "kind": "history",
+    "records": 400,
+    "event_seq": 42,
+    "event_type": null,
+    "nominal_period_ms": 10,
+    "trigger_seq": 7046,
+    "trigger_is_approximate": true,
+    "peak_acceleration_g": 1.385,
+    "peak_angular_rate_dps": 26.374
+  },
+  {
+    "file": "tap_01_00511_fast_flash",
+    "kind": "fast_flash",
+    "records": 64,
+    "event_seq": 42,
+    "event_type": 2,
+    "nominal_period_ms": 2,
+    "trigger_seq": 35234,
+    "trigger_is_approximate": false,
+    "peak_acceleration_g": 1.394,
+    "peak_angular_rate_dps": 37.406
+  }
+]

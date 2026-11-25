@@ -1,0 +1,62 @@
+[
+  {
+    "file": "auto_120_00020_history",
+    "kind": "history",
+    "records": 400,
+    "event_seq": 42,
+    "event_type": null,
+    "nominal_period_ms": 10,
+    "trigger_seq": 7046,
+    "trigger_is_approximate": true,
+    "peak_acceleration_g": 1.385,
+    "peak_angular_rate_dps": 26.374
+  },
+  {
+    "file": "auto_120_00425_fast_flash",
+    "kind": "fast_flash",
+    "records": 64,
+    "event_seq": 42,
+    "event_type": 2,
+    "nominal_period_ms": 2,
+    "trigger_seq": 35234,
+    "trigger_is_approximate": false,
+    "peak_acceleration_g": 1.394,
+    "peak_angular_rate_dps": 37.406
+  },
+  {
+    "file": "auto_120_00528_fast_ram",
+    "kind": "fast_ram",
+    "records": 64,
+    "event_seq": null,
+    "event_type": null,
+    "nominal_period_ms": 2,
+    "trigger_seq": 5844,
+    "trigger_is_approximate": false,
+    "peak_acceleration_g": 1.328,
+    "peak_angular_rate_dps": 51.017
+  },
+  {
+    "file": "auto_120_00620_history",
+    "kind": "history",
+    "records": 400,
+    "event_seq": 43,
+    "event_type": null,
+    "nominal_period_ms": 10,
+    "trigger_seq": 1168,
+    "trigger_is_approximate": true,
+    "peak_acceleration_g": 1.088,
+    "peak_angular_rate_dps": 43.695
+  },
+  {
+    "file": "auto_120_01025_fast_flash",
+    "kind": "fast_flash",
+    "records": 64,
+    "event_seq": 43,
+    "event_type": 1,
+    "nominal_period_ms": 2,
+    "trigger_seq": 5844,
+    "trigger_is_approximate": false,
+    "peak_acceleration_g": 1.328,
+    "peak_angular_rate_dps": 51.017
+  }
+]
